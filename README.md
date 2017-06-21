@@ -1,9 +1,10 @@
-# Welcome to [Dotitude](http://dotitude.com/)
+# Welcome to Dotitude!
 ![alt text](https://scontent.fcmb2-1.fna.fbcdn.net/v/t31.0-8/18422898_1373633802701818_3538253629252583054_o.jpg?oh=0fe3438c230ae3cb88b296ca75e7cde6&oe=59D34B89)
 
-A community driven by 99X Technology with the collaboration of Universities and Industry to enlighten the future of undergraduates. 
+[Dotitude](http://dotitude.com/) is a community driven by 99X Technology with the collaboration of Universities and Industry to enlighten the future of undergraduates. 
 
-![alt text](https://ibb.co/jWgi2k)(https://www.facebook.com/Dotitude/)
+* [Faceboook Page](https://www.facebook.com/Dotitude/)
+* [99XT Open source](http://opensource.99xtechnology.com/)
 
 # Workshop Materials
 
