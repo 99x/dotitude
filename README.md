@@ -19,3 +19,9 @@ The following documentation contains the information about the prerequisites for
 The following documentation contains the information about the prerequisites for the Test Automation Workshop and the Step-by-Step Guide to download and setup the prerequisite SDKs (Software Development Kit) and Tools needed to complete the hands-On activities during the workshop.
 
 *Branch - [Test-Automation-Workshop-UoM-2017](https://github.com/99xt/dotitude/tree/Test-Automation-Workshop-UoM-2017)*
+
+## Test Automation Workshop 2018 | University of Moratuwa - CSE
+
+The following documentation contains the information about the prerequisites for the Test Automation Workshop and the Step-by-Step Guide to download and setup the prerequisite SDKs (Software Development Kit) and Tools needed to complete the hands-On activities during the workshop.
+
+*Branch - [Test-Automation-Workshop-UoM-2018](https://github.com/99xt/dotitude/tree/Test-Automation-Workshop-UoM-2018)*
