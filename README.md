@@ -1,4 +1,4 @@
-# Test Automation Workshop 2018 | University of Moratuwa - CSE
+2# Test Automation Workshop 2018 | University of Moratuwa - CSE
 
 The following documentation contains the information about the prerequisites for the Test Automation Workshop and the Step-by-Step Guide to download and setup the prerequisite SDKs (Software Development Kit) and Tools needed to complete the hands-On activities dueing the workshop.
 
@@ -8,14 +8,22 @@ The following documentation contains the information about the prerequisites for
 ## Prerequisite SDKs & Tools
 
 **Download And Install** the following.
-* Java SDK 8.0 - [Download](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
-* Eclipse Neon IDE - [Download](https://github.com/kasunkv/UoM-IT-Automation-Workshop/raw/master/installations/eclipse-inst-win64.exe)
-* Mozilla Firefox - Latest - [Download](https://github.com/kasunkv/UoM-IT-Automation-Workshop/raw/master/installations/Firefox%20Setup%2052.0.1.exe)
+* Java SDK 8.0 - [Download][1]
+* Eclipse Oxygen IDE - [Windows 64bit][2] | [Linux 64bit][3] | [Linux 32bit][4] | [MacOS 64bit][5]
 
 **Download and Bring** the following installations.
-* Selenium WebDriver Java Language Binding - [Download](https://github.com/kasunkv/UoM-IT-Automation-Workshop/raw/master/installations/selenium-java-3.3.1.zip)
-* Gekco Driver for Mozilla Firefox - [Download](https://github.com/kasunkv/UoM-IT-Automation-Workshop/raw/master/installations/geckodriver-v0.15.0-win64.zip)
-* Chrome Driver - [Download](https://github.com/kasunkv/UoM-IT-Automation-Workshop/raw/master/installations/chromedriver_win32.zip)
+* Selenium WebDriver Java Language Binding - [Download][6]
+* Chrome Driver - [Windows 32bit][7] | [Linux 64bit][8] | [MacOS 64bit][9]
 
 
 ### You **MUST** have the above SDKs and Tools downloaded/installed before you come to the Test Automation Workshop
+
+[1]: http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+[2]: http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+[3]: http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+[4]: http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+[5]: http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+[6]: http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+[7]: http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+[8]: http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+[9]: http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
