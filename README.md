@@ -14,6 +14,7 @@ The following documentation contains the information about the prerequisites for
 **Download and Bring** the following installations.
 * Selenium WebDriver Java Language Binding - [Download][6]
 * Chrome Driver - [Windows 32bit][7] | [Linux 64bit][8] | [MacOS 64bit][9]
+* Katalon Plugin (Chrome) - [Install in Chrome][10]
 
 
 ### You **MUST** have the above SDKs and Tools downloaded/installed before you come to the Test Automation Workshop
@@ -27,3 +28,4 @@ The following documentation contains the information about the prerequisites for
 [7]: https://github.com/99xt/dotitude/raw/Test-Automation-Workshop-UoM-2018/installations/chromedriver_win32.zip
 [8]: https://github.com/99xt/dotitude/raw/Test-Automation-Workshop-UoM-2018/installations/chromedriver_linux64.zip
 [9]: https://github.com/99xt/dotitude/raw/Test-Automation-Workshop-UoM-2018/installations/chromedriver_mac64.zip
+[10]: https://chrome.google.com/webstore/detail/katalon-recorder-selenium/ljdobmomdgdljniojadhoplhkpialdid
