@@ -19,11 +19,11 @@ The following documentation contains the information about the prerequisites for
 ### You **MUST** have the above SDKs and Tools downloaded/installed before you come to the Test Automation Workshop
 
 [1]: http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
-[2]: http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
-[3]: http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
-[4]: http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
-[5]: http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
-[6]: http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
-[7]: http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
-[8]: http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
-[9]: http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+[2]: https://github.com/99xt/dotitude/raw/Test-Automation-Workshop-UoM-2018/installations/eclipse-inst-win64.exe
+[3]: https://github.com/99xt/dotitude/raw/Test-Automation-Workshop-UoM-2018/installations/eclipse-inst-linux64.tar.gz
+[4]: https://github.com/99xt/dotitude/raw/Test-Automation-Workshop-UoM-2018/installations/eclipse-inst-linux32.tar.gz
+[5]: https://github.com/99xt/dotitude/raw/Test-Automation-Workshop-UoM-2018/installations/eclipse-inst-mac64.tar.gz
+[6]: https://github.com/99xt/dotitude/raw/Test-Automation-Workshop-UoM-2018/installations/selenium-server-standalone-3.9.1.jar
+[7]: https://github.com/99xt/dotitude/raw/Test-Automation-Workshop-UoM-2018/installations/chromedriver_win32.zip
+[8]: https://github.com/99xt/dotitude/raw/Test-Automation-Workshop-UoM-2018/installations/chromedriver_linux64.zip
+[9]: https://github.com/99xt/dotitude/raw/Test-Automation-Workshop-UoM-2018/installations/chromedriver_mac64.zip
